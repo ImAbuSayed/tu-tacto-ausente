@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu tacto ausente |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-ausente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
+| **Get License** | [Commercial Licensing for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Dime si tú sientes este fuego en la piel
-> Porque yo me quemo si no te vuelvo a ver
-> Tu tacto ausente me castiga en la pared
-> Chula, tú me tienes adicto a tu nivel
+> Your touch is missing, but I feel the heat
+> Every midnight rhythm, you're the beat
+> Got me spinning slow, lost inside the glow
+> Baby, tell me now, are you ready for the show?
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
