@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-ausente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
+| **Get License** | [Official Music Licensing for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si tú sientes este fuego en la piel
+> Porque yo me quemo si no te vuelvo a ver
+> Tu tacto ausente me castiga en la pared
+> Chula, tú me tienes adicto a tu nivel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `30b64a193567759232e96240d8309e9740909f39a70d6a297024ff683bab4e82` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
