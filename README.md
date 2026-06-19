@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-ausente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
+| **Get License** | [Secure Licensing Rights for Tu tacto ausente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-ausente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3725)
+- [Telegram](https://t.me/AbuSayedMusic/3734)
 
 ---
 
