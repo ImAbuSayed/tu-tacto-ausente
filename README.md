@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si tú sientes este fuego en la piel
+> Porque yo me quemo si no te vuelvo a ver
+> Tu tacto ausente me castiga en la pared
+> Chula, tú me tienes adicto a tu nivel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
